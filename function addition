@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int add()
+{
+    int  a,b,c;
+    a=12;
+    b=15;
+    c=a+b;
+    cout<<c;
+    return 0;
+}
+int main(){
+    add();
+    return 0;
+}
